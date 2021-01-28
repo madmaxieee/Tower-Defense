@@ -1,0 +1,19 @@
+﻿  Blood.cpp
+  Bullet.cpp
+C:\Users\cmsma\OneDrive - g.ntu.edu.tw\c++ final project\FinalProj\Bullet.cpp(132,33): warning C4018: '>=': signed/unsigned mismatch
+  Map.cpp
+  Monster.cpp
+C:\Users\cmsma\OneDrive - g.ntu.edu.tw\c++ final project\FinalProj\Monster.cpp(403,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  turret.cpp
+C:\Users\cmsma\OneDrive - g.ntu.edu.tw\c++ final project\FinalProj\turret.cpp(95,31): warning C4244: '=': conversion from 'const double' to 'int', possible loss of data
+C:\Users\cmsma\OneDrive - g.ntu.edu.tw\c++ final project\FinalProj\turret.cpp(102,32): warning C4018: '>': signed/unsigned mismatch
+C:\Users\cmsma\OneDrive - g.ntu.edu.tw\c++ final project\FinalProj\turret.cpp(146,31): warning C4244: '=': conversion from 'const double' to 'int', possible loss of data
+C:\Users\cmsma\OneDrive - g.ntu.edu.tw\c++ final project\FinalProj\turret.cpp(153,32): warning C4018: '>': signed/unsigned mismatch
+C:\Users\cmsma\OneDrive - g.ntu.edu.tw\c++ final project\FinalProj\turret.cpp(193,31): warning C4244: '=': conversion from 'const double' to 'int', possible loss of data
+C:\Users\cmsma\OneDrive - g.ntu.edu.tw\c++ final project\FinalProj\turret.cpp(200,32): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+  1 of 355 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FinalProj.vcxproj -> C:\Users\cmsma\OneDrive - g.ntu.edu.tw\c++ final project\FinalProj\Release\FinalProj.exe

@@ -1,0 +1,2 @@
+C:\Users\cmsma\OneDrive - g.ntu.edu.tw\c++ final project\FinalProj\Debug\FinalProj.exe
+C:\Users\cmsma\OneDrive - g.ntu.edu.tw\c++ final project\FinalProj\Debug\FinalProj.pdb

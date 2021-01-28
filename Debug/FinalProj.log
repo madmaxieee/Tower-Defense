@@ -1,0 +1,2 @@
+﻿Blood.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  FinalProj.vcxproj -> C:\Users\cmsma\OneDrive - g.ntu.edu.tw\c++ final project\FinalProj\Debug\FinalProj.exe
